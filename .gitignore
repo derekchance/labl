@@ -202,5 +202,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# .idea stuff
+.idea/
+
 # Scratch notebook
 scratch.ipynb

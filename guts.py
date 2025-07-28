@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from joblib import dump
 
-from pitching import load_pitching_data
+from pitchers import load_pitching_data
 
 
 def inning_sim(n, outcomes, verbose=0):

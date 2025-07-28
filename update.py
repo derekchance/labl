@@ -1,15 +1,15 @@
 import pandas as pd
 
 from standings import main as standings
-from offense import main as offense
-from pitching import main as pitching
+from hitters import main as hitters
+from pitchers import main as pitchers
 
 YEAR = 2025
 
 def main():
     standings()
-    offense()
-    pitching()
+    hitters()
+    pitchers()
 
     off_df = pd.read_csv(f'results/{YEAR}/offense.csv')
     pitch_df = pd.read_csv(f'results/{YEAR}/pitching.csv')

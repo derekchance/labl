@@ -32,7 +32,7 @@ def main():
     standings_df['Pythag L'] = 15 - standings_df['Pythag W']
     standings_df.index = standings_df.index.str.strip()
     standings_df.index.name = 'Team'
-    standings_df.to_csv(f'data/standings/{year}.csv', index=False)
+    standings_df.to_csv(f'data/standings/{year}.csv')
 
 
 if __name__ == '__main__':

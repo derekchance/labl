@@ -1,43 +1,46 @@
-﻿Day,Date,Time,Status,Score,Visitors,Home,Venue
-Sat,3/29/2025,9:30 AM,F,7-6,LA Legends  ,LA Hard Knocks  ,Narbonne HS
-Sat,3/29/2025,1:00 PM,F,16-1,Long Beach Breakers  ,Silver Lake Cardinals  ,Narbonne HS
-Sat,3/29/2025,2:00 PM,F,3-15,Venice Mariners  ,LA Los Guapos  ,Legacy HS
-Sat,4/5/2025,9:30 AM,F,6-13,Silver Lake Cardinals  ,LA Hard Knocks  ,Montebello HS
-Sat,4/5/2025,9:30 AM,F,16-13,LA Los Guapos  ,LA Legends  ,Narbonne HS
-Sat,4/5/2025,1:00 PM,F,2-7,Venice Mariners  ,Long Beach Breakers  ,Montebello HS
-Sat,4/12/2025,9:30 AM,F,11-2,LA Hard Knocks  ,Venice Mariners  ,Montebello HS
-Sat,4/12/2025,9:30 AM,F,12-9,Long Beach Breakers  ,LA Los Guapos  ,Narbonne HS
-Sat,4/12/2025,1:00 PM,F,10-4,LA Legends  ,Silver Lake Cardinals  ,Montebello HS
-Sat,5/3/2025,9:30 AM,F,4-5,LA Los Guapos  ,LA Hard Knocks  ,Montebello HS
-Sat,5/3/2025,1:00 PM,F,3-8,Venice Mariners  ,Silver Lake Cardinals  ,Montebello HS
-Sat,5/3/2025,1:00 PM,F,14-13,Long Beach Breakers  ,LA Legends  ,Narbonne HS
-Sat,5/10/2025,9:30 AM,F,8-7,LA Hard Knocks  ,LA Legends  ,Montebello HS
-Sat,5/10/2025,9:30 AM,F,17-2,LA Los Guapos  ,Venice Mariners  ,Narbonne HS
-Sat,5/10/2025,1:00 PM,F,0-9,Silver Lake Cardinals  ,Long Beach Breakers  ,Montebello HS
-Sat,5/17/2025,9:00 AM,F,9-9,LA Legends  ,LA Los Guapos  ,Narbonne HS
-Sat,5/17/2025,9:30 AM,F,6-0,Long Beach Breakers  ,Venice Mariners  ,Legacy HS
-Sat,5/17/2025,9:30 AM,F,10-4,LA Hard Knocks  ,Silver Lake Cardinals  ,Montebello HS
-Sat,5/31/2025,9:30 AM,F,8-13,Venice Mariners  ,LA Hard Knocks  ,Legacy HS
-Sat,5/31/2025,9:30 AM,F,4-15,Silver Lake Cardinals  ,LA Legends  ,Montebello HS
-Sat,5/31/2025,9:30 AM,F,10-8,LA Los Guapos  ,Long Beach Breakers  ,Narbonne HS
-Sat,6/7/2025,9:30 AM,F,19-2,Silver Lake Cardinals  ,Venice Mariners  ,Glendale Sports Complex
-Sat,6/7/2025,9:30 AM,F,8-3,LA Legends  ,Long Beach Breakers  ,Montebello HS
-Sat,6/7/2025,9:30 AM,F,16-6,LA Hard Knocks  ,LA Los Guapos  ,Narbonne HS
-Sat,6/14/2025,9:30 AM,F,5-3,Long Beach Breakers  ,LA Hard Knocks  ,Legacy HS
-Sat,6/14/2025,9:30 AM,F,0-5,Venice Mariners  ,LA Legends  ,Montebello HS
-Sat,6/14/2025,9:30 AM,F,10-5,LA Los Guapos  ,Silver Lake Cardinals  ,Narbonne HS
-Sat,6/14/2025,1:00 PM,F,7-3,LA Hard Knocks  ,Long Beach Breakers  ,Legacy HS
-Sat,6/14/2025,1:00 PM,F,10-2,LA Legends  ,Venice Mariners  ,Montebello HS
-Sat,6/14/2025,1:00 PM,F,11-6,Silver Lake Cardinals  ,LA Los Guapos  ,Narbonne HS
-Sat,6/21/2025,9:30 AM,F,6-4,LA Legends  ,LA Hard Knocks  ,Glendale Sports Complex
-Sat,6/21/2025,9:30 AM,F,1-10,Venice Mariners  ,LA Los Guapos  ,Legacy HS
-Sat,6/21/2025,9:30 AM,F,10-5,Long Beach Breakers  ,Silver Lake Cardinals  ,Montebello HS
-Sat,6/28/2025,9:30 AM,F,6-7,Silver Lake Cardinals  ,LA Hard Knocks  ,Glendale Sports Complex
-Sat,6/28/2025,9:30 AM,F,2-7,Venice Mariners  ,Long Beach Breakers  ,Montebello HS
-Sat,6/28/2025,9:30 AM,F,8-9,LA Los Guapos  ,LA Legends  ,Narbonne HS
-Sat,7/12/2025,9:30 AM,F,0-3,LA Los Guapos  ,LA Hard Knocks  ,Legacy HS
-Sat,7/12/2025,9:30 AM,F,6-11,Venice Mariners  ,Silver Lake Cardinals  ,Montebello HS
-Sat,7/12/2025,9:30 AM,F,4-5,Long Beach Breakers  ,LA Legends  ,Narbonne HS
-Sat,7/19/2025,9:30 AM,F,4-2,LA Legends  ,Silver Lake Cardinals  ,Glendale Sports Complex
-Sat,7/19/2025,9:30 AM,F,8-0,LA Hard Knocks  ,Venice Mariners  ,Legacy HS
-Sat,7/19/2025,9:30 AM,F,7-12,Long Beach Breakers  ,LA Los Guapos  ,Narbonne HS
+﻿Day,Date,Time,Status,Score,Visitors,Home,Venue,
+Sat,3/29/2025,9:30 AM,F,7-6,LA Legends  ,LA Hard Knocks  ,Narbonne HS,
+Sat,3/29/2025,1:00 PM,F,16-1,Long Beach Breakers  ,Silver Lake Cardinals  ,Narbonne HS,
+Sat,3/29/2025,2:00 PM,F,3-15,Venice Mariners  ,LA Los Guapos  ,Legacy HS,
+Sat,4/5/2025,9:30 AM,F,6-13,Silver Lake Cardinals  ,LA Hard Knocks  ,Montebello HS,
+Sat,4/5/2025,9:30 AM,F,16-13,LA Los Guapos  ,LA Legends  ,Narbonne HS,
+Sat,4/5/2025,1:00 PM,F,2-7,Venice Mariners  ,Long Beach Breakers  ,Montebello HS,
+Sat,4/12/2025,9:30 AM,F,11-2,LA Hard Knocks  ,Venice Mariners  ,Montebello HS,
+Sat,4/12/2025,9:30 AM,F,12-9,Long Beach Breakers  ,LA Los Guapos  ,Narbonne HS,
+Sat,4/12/2025,1:00 PM,F,10-4,LA Legends  ,Silver Lake Cardinals  ,Montebello HS,
+Sat,5/3/2025,9:30 AM,F,4-5,LA Los Guapos  ,LA Hard Knocks  ,Montebello HS,
+Sat,5/3/2025,1:00 PM,F,3-8,Venice Mariners  ,Silver Lake Cardinals  ,Montebello HS,
+Sat,5/3/2025,1:00 PM,F,14-13,Long Beach Breakers  ,LA Legends  ,Narbonne HS,
+Sat,5/10/2025,9:30 AM,F,8-7,LA Hard Knocks  ,LA Legends  ,Montebello HS,
+Sat,5/10/2025,9:30 AM,F,17-2,LA Los Guapos  ,Venice Mariners  ,Narbonne HS,
+Sat,5/10/2025,1:00 PM,F,0-9,Silver Lake Cardinals  ,Long Beach Breakers  ,Montebello HS,
+Sat,5/17/2025,9:00 AM,F,9-9,LA Legends  ,LA Los Guapos  ,Narbonne HS,
+Sat,5/17/2025,9:30 AM,F,6-0,Long Beach Breakers  ,Venice Mariners  ,Legacy HS,
+Sat,5/17/2025,9:30 AM,F,10-4,LA Hard Knocks  ,Silver Lake Cardinals  ,Montebello HS,
+Sat,5/31/2025,9:30 AM,F,8-13,Venice Mariners  ,LA Hard Knocks  ,Legacy HS,
+Sat,5/31/2025,9:30 AM,F,4-15,Silver Lake Cardinals  ,LA Legends  ,Montebello HS,
+Sat,5/31/2025,9:30 AM,F,10-8,LA Los Guapos  ,Long Beach Breakers  ,Narbonne HS,
+Sat,6/7/2025,9:30 AM,F,19-2,Silver Lake Cardinals  ,Venice Mariners  ,Glendale Sports Complex,
+Sat,6/7/2025,9:30 AM,F,8-3,LA Legends  ,Long Beach Breakers  ,Montebello HS,
+Sat,6/7/2025,9:30 AM,F,16-6,LA Hard Knocks  ,LA Los Guapos  ,Narbonne HS,
+Sat,6/14/2025,9:30 AM,F,5-3,Long Beach Breakers  ,LA Hard Knocks  ,Legacy HS,
+Sat,6/14/2025,9:30 AM,F,0-5,Venice Mariners  ,LA Legends  ,Montebello HS,
+Sat,6/14/2025,9:30 AM,F,10-5,LA Los Guapos  ,Silver Lake Cardinals  ,Narbonne HS,
+Sat,6/14/2025,1:00 PM,F,7-3,LA Hard Knocks  ,Long Beach Breakers  ,Legacy HS,
+Sat,6/14/2025,1:00 PM,F,10-2,LA Legends  ,Venice Mariners  ,Montebello HS,
+Sat,6/14/2025,1:00 PM,F,11-6,Silver Lake Cardinals  ,LA Los Guapos  ,Narbonne HS,
+Sat,6/21/2025,9:30 AM,F,6-4,LA Legends  ,LA Hard Knocks  ,Glendale Sports Complex,
+Sat,6/21/2025,9:30 AM,F,1-10,Venice Mariners  ,LA Los Guapos  ,Legacy HS,
+Sat,6/21/2025,9:30 AM,F,10-5,Long Beach Breakers  ,Silver Lake Cardinals  ,Montebello HS,
+Sat,6/28/2025,9:30 AM,F,6-7,Silver Lake Cardinals  ,LA Hard Knocks  ,Glendale Sports Complex,
+Sat,6/28/2025,9:30 AM,F,2-7,Venice Mariners  ,Long Beach Breakers  ,Montebello HS,
+Sat,6/28/2025,9:30 AM,F,8-9,LA Los Guapos  ,LA Legends  ,Narbonne HS,
+Sat,7/12/2025,9:30 AM,F,0-3,LA Los Guapos  ,LA Hard Knocks  ,Legacy HS,
+Sat,7/12/2025,9:30 AM,F,6-11,Venice Mariners  ,Silver Lake Cardinals  ,Montebello HS,
+Sat,7/12/2025,9:30 AM,F,4-5,Long Beach Breakers  ,LA Legends  ,Narbonne HS,
+Sat,7/19/2025,9:30 AM,F,4-2,LA Legends  ,Silver Lake Cardinals  ,Glendale Sports Complex,
+Sat,7/19/2025,9:30 AM,F,8-0,LA Hard Knocks  ,Venice Mariners  ,Legacy HS,
+Sat,7/19/2025,9:30 AM,F,7-12,Long Beach Breakers  ,LA Los Guapos  ,Narbonne HS,
+Sat,7/26/2025,9:00 AM,F,13-9,Silver Lake Cardinals  ,LA Los Guapos  ,Legacy HS,
+Sat,7/26/2025,9:30 AM,F,5-4,LA Legends  ,Venice Mariners  ,Glendale Sports Complex,
+Sat,7/26/2025,9:30 AM,F,1-4,LA Hard Knocks  ,Long Beach Breakers  ,Montebello HS,

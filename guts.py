@@ -165,6 +165,7 @@ def determine_linear_weights(lg_off_df):
 
     lw_df = sim_df.groupby('outcome').run_exp_change.mean()
     lw_df -= lw_df.loc['OUT']
+    print(lw_df['OUT'])
     del lw_df['OUT']
 
     wOBA_scale = lg_off_df['OBP'] / ((lw_df * lg_off_df.loc[lw_df.index]).sum() / lg_off_df.loc['PA'])

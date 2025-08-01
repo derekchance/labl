@@ -29,7 +29,7 @@ def main():
     pythag = ((standings_df['Runs Scored'] ** 1.83)
               / (standings_df['Runs Scored'] ** 1.83 + standings_df['Runs Allowed'] ** 1.83))
     standings_df['Pythag W'] = (pythag * standings_df['G']).round(1)
-    standings_df['Pythag L'] = 15 - standings_df['Pythag W']
+    standings_df['Pythag L'] = standings_df['G'] - standings_df['Pythag W']
     standings_df.index = standings_df.index.str.strip()
     standings_df.index.name = 'Team'
     standings_df.to_csv(f'data/standings/{year}.csv')
